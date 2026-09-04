@@ -8654,7 +8654,7 @@
       "title_id": "CUSA01345",
       "region": "EUR",
       "name": "Zombie Army Trilogy",
-      "version": "01.02",
+      "version": "01.01",
       "release": "11-15-2013",
       "size": 8281391104,
       "min_fw": "9.00",
@@ -8669,7 +8669,18 @@
       "size": 74347118592,
       "min_fw": "9.00",
       "cover_url": ""
-    }
+	}
+	  "https://store-na-phx-5.gofile.io/download/web/2cddbb95-bcd2-4417-bf48-ee66dbe6d6d7/BASE%20MEGA%20PATCH%20INFINITY%202026.pkg": {
+      "title_id": "CUSA18786",
+      "region": "USA",
+      "name": "Mega Patch Infinity 7.0 2026",
+      "version": "01.08",
+      "release": "08-15-2026",
+      "size": 99218620416,
+      "min_fw": "9.00",
+      "cover_url": ""
+	
+	}
   }
 }
 	  
